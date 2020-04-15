@@ -21,4 +21,4 @@ The model has been trained on kaggle notebooks, utilising the TPUs for minimum r
 A final accuracies of 95.64 and 92.81 were achieved on the training set and validation set respectively.
 
 ## Confusion Matrix:
-(Confusion Matrix.PNG)
+![ConfusionMatrix](https://github.com/gauravsharma-97/FER-Challenge/blob/master/Confusion%20Matrix.PNG)
